@@ -8,13 +8,13 @@ Welcome to my GitHub repository where I will be managing and organizing my acade
 
 | Time        | Monday                                           | Tuesday                                        | Wednesday                                       | Thursday                                        | Friday                                          |
 |-------------|--------------------------------------------------|------------------------------------------------|-------------------------------------------------|------------------------------------------------|-------------------------------------------------|
-| **09:30-10:20** | **CSE3055 - Database Systems** <br> Room: M2-RTEM2.Z11 | | | | **CSE3055 - Database Systems**  <br> Room: M2-RTEM2.Z11 |
-| **10:30-11:20** | **CSE3055 - Database Systems**  <br> Room: M2-RTEM2.Z11 | | **CSE3063 - Object-Oriented Software Design**  <br> Room: M2-RTEM2.Z11 | **CSE3063 - Object-Oriented Software Design** <br> Room: M2-RTEM2.Z11 | **CSE3033 - Operating Systems** <br> Room: M2-RTEM2.Z11 |
-| **11:30-12:20** | **CSE3033 - Operating Systems** <br> Room: M1-RTEM1.Z06 | **CSE3063 - Object-Oriented Software Design** <br> Room: M2-RTEM2.Z11 | **CSE3063 - Object-Oriented Software Design** <br>  Room: M2-RTEM2.Z11 | | **CSE3033 - Operating Systems** <br> Room: M2-RTEM2.Z11 |
-| **13:00-13:50** | | **CSE3033 - Operating Systems (Lab)** <br>  Room: M2-RTEM2.101 | | **CSE4074 - Computer Networks** <br>  Room: M2-RTEM2.Z11 | |
-| **14:00-14:50** | | **CSE3033 - Operating Systems (Lab)**  <br> Room: M2-RTEM2.101 | | **CSE4074 - Computer Networks** <br>  Room: M2-RTEM2.Z11 | |
-| **15:00-15:50** | | **CSE4074 - Computer Networks** <br>  Room: M2-RTEM2.Z11 | | **CSE4074 - Computer Networks** <br>  Room: M2-RTEM2.Z11 | |
-| **16:00-16:50** | | | | **CSE3055 - Database Systems** <br> Room: M2-RTEM2.101 | |
+| **09:30-10:20** | **CSE3055** <br> Database Systems <br> Room: M2-Z11 | | **CSE3063** <br> Object-Oriented Software Design <br> Room: M2-Z11 | | **CSE3055** <br> Database Systems <br> Room: M2-Z11 |
+| **10:30-11:20** | **CSE3055** <br> Database Systems <br> Room: M2-Z11 | | **CSE3063** <br> Object-Oriented Software Design <br> Room: M2-Z11 | | **CSE3033** <br> Operating Systems <br> Room: M2-Z11 |
+| **11:30-12:20** | **CSE3033** <br> Operating Systems <br> Room: M1-Z06 | **CSE3063** <br> Object-Oriented Software Design <br> Room: M2-Z11 | | | **CSE3033** <br> Operating Systems <br> Room: M2-Z11 |
+| **13:00-13:50** | | **CSE3033** <br> Operating Systems <br> Room: M2-101 | | **CSE4074** <br> Computer Networks <br> Room: M2-Z11 | |
+| **14:00-14:50** | | **CSE3033** <br> Operating Systems <br> Room: M2-101 | | **CSE4074** <br> Computer Networks <br> Room: M2-Z11 | |
+| **15:00-15:50** | | **CSE4074** <br> Computer Networks <br> Room: M2-Z11 | | **CSE3055** <br> Database Systems <br> Room: M2-101 | |
+| **16:00-16:50** | | | | **CSE3055** <br> Database Systems <br> Room: M2-101 | |
 
 ---
 
